@@ -21,7 +21,7 @@ assetsSummary:
     name: Human
     schemaKey: SpeciesType
   variableMeasured: []
-citation: pons8-yo_16xdownsampled (2021). (Version draft) [Data set]. DANDI archive.
+citation: pons8-yo_16xdownsampled (2022). (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000051/draft
 dateCreated: '2020-12-21T16:07:31.227000+00:00'
 description: 'Downsampled image of pons slice #8 stained with a nuclear dye. For testing
